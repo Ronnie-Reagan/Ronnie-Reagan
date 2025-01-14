@@ -19,9 +19,6 @@
 </a>
 </p>
 
-<a href="http://www.github.com/Ronnie-Reagan"><img src="https://github-readme-stats.vercel.app/api?username=Ronnie-Reagan&show_icons=true&hide=&count_private=true&title_color=6a0dad&text_color=6a0dad&icon_color=6a0dad&bg_color=000000&hide_border=false&show_icons=true" alt="Ronnie-Reagan's GitHub stats" />
-</a>
-
 <a href="http://www.github.com/Ronnie-Reagan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Reagan&stroke=6a0dad&background=000000&ring=6a0dad&fire=6a0dad&currStreakNum=6a0dad&currStreakLabel=6a0dad&sideNums=6a0dad&sideLabels=6a0dad&dates=6a0dad&hide_border=false" />
 </a>
 
