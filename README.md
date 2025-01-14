@@ -19,11 +19,6 @@
 </a>
 </p>
 
-<a href="http://www.github.com/Ronnie-Reagan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Reagan&stroke=6a0dad&background=000000&ring=6a0dad&fire=6a0dad&currStreakNum=6a0dad&currStreakLabel=6a0dad&sideNums=6a0dad&sideLabels=6a0dad&dates=6a0dad&hide_border=false" />
-</a>
-
-[![Ronnie-Reagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie-Reagan&show_icons=true&hide=&count_private=true&title_color=6a0dad&text_color=6a0dad&icon_color=6a0dad&bg_color=000000&hide_border=false&show_icons=true)](https://github.com/Ronnie-Reagan/github-readme-stats)
-
 <img align="center" style="padding:0" src="https://github-readme-stats-diced.vercel.app/api?username=Ronnie-Reagan&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Ronnie-Reagan's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats-diced.vercel.app/api/top-langs/?username=Ronnie-Reagan&layout=compact&hide_border=true&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Ronnie-Reagan's Github Langs">
 
 <img src="https://wakatime.com/share/@fbd0b047-cb01-4aaa-baca-6d862b608482/4b43a581-6428-4159-b054-ad043a2cdaa5.svg"/>
