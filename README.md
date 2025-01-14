@@ -24,3 +24,5 @@
 
 <a href="http://www.github.com/Ronnie-Reagan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Reagan&stroke=6a0dad&background=000000&ring=6a0dad&fire=6a0dad&currStreakNum=6a0dad&currStreakLabel=6a0dad&sideNums=6a0dad&sideLabels=6a0dad&dates=6a0dad&hide_border=false" />
 </a>
+
+[![Ronnie-Reagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnie-Reagan)](https://github.com/Ronnie-Reagan/github-readme-stats)
