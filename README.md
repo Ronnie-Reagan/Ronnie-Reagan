@@ -28,3 +28,4 @@
   <img align="center" src="https://github-readme-stats-diced.vercel.app/api?username=Ronnie-Reagan&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-stats-diced.vercel.app/api/top-langs/?username=Ronnie-Reagan&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Top Languages" />
 </p>
+<a href = "https://ronnie-reagan.github.io/" target="_blank" rel="noopener">Landing Page (under construction)</a>
